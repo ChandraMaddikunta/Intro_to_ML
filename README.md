@@ -6,4 +6,6 @@ This repository provides the notebooks from which the book is created, together 
 
 All datasets are included in the repository, with the exception of the aclImdb dataset, which you can download from the page of Andrew Maas. See the book for details.
 
+If you get ImportError: No module named mglearn you can try to install mglearn into your python environment using the command pip install mglearn in your terminal or !pip install mglearn in Jupyter Notebook
+
 This repository is my weekly practice repository for the code from the book "Introduction to Machine Learning with Python" by Andreas Mueller and Sarah Guido.
